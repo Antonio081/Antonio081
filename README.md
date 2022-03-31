@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <!--
 **Antonio081/Antonio081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
